@@ -1,0 +1,7 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 5\Class 05\Class 05\Class 05\bin\Debug\Class 05.exe.config
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 5\Class 05\Class 05\Class 05\bin\Debug\Class 05.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 5\Class 05\Class 05\Class 05\bin\Debug\Class 05.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 5\Class 05\Class 05\Class 05\obj\Debug\Class 05.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 5\Class 05\Class 05\Class 05\obj\Debug\Class 05.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 5\Class 05\Class 05\Class 05\obj\Debug\Class 05.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 5\Class 05\Class 05\Class 05\obj\Debug\Class 05.pdb

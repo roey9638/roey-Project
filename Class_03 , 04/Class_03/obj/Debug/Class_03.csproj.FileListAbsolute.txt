@@ -1,0 +1,14 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3\Class_03\Class_03\bin\Debug\Class_03.exe.config
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3\Class_03\Class_03\bin\Debug\Class_03.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3\Class_03\Class_03\bin\Debug\Class_03.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3\Class_03\Class_03\obj\Debug\Class_03.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3\Class_03\Class_03\obj\Debug\Class_03.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3\Class_03\Class_03\obj\Debug\Class_03.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3\Class_03\Class_03\obj\Debug\Class_03.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3 , 4\Class_03 , 04\Class_03\bin\Debug\Class_03.exe.config
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3 , 4\Class_03 , 04\Class_03\bin\Debug\Class_03.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3 , 4\Class_03 , 04\Class_03\bin\Debug\Class_03.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3 , 4\Class_03 , 04\Class_03\obj\Debug\Class_03.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3 , 4\Class_03 , 04\Class_03\obj\Debug\Class_03.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3 , 4\Class_03 , 04\Class_03\obj\Debug\Class_03.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 3 , 4\Class_03 , 04\Class_03\obj\Debug\Class_03.pdb
