@@ -1,0 +1,2 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 10\Class 10\Class 10\obj\Debug\Class 10.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 10\Class 10\Class 10\obj\Debug\Class 10.csproj.CoreCompileInputs.cache

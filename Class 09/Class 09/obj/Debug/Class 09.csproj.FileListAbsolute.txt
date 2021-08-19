@@ -1,0 +1,7 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 9\Class 09\Class 09\bin\Debug\Class 09.exe.config
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 9\Class 09\Class 09\bin\Debug\Class 09.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 9\Class 09\Class 09\bin\Debug\Class 09.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 9\Class 09\Class 09\obj\Debug\Class 09.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 9\Class 09\Class 09\obj\Debug\Class 09.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 9\Class 09\Class 09\obj\Debug\Class 09.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מורחב\שיעור 9\Class 09\Class 09\obj\Debug\Class 09.pdb
