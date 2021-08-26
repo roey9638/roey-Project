@@ -1,0 +1,18 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\bin\Debug\net5.0-windows\Class_02 - Generics.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\bin\Debug\net5.0-windows\Class_02 - Generics.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\bin\Debug\net5.0-windows\Class_02 - Generics.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\bin\Debug\net5.0-windows\Class_02 - Generics.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\bin\Debug\net5.0-windows\Class_02 - Generics.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\bin\Debug\net5.0-windows\ref\Class_02 - Generics.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\bin\Debug\net5.0-windows\Class_02 - Generics.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02___Generics.Form1.resources
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.csproj.GenerateResource.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\ref\Class_02 - Generics.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 2\Class_02 - Generics\Class_02 - Generics\obj\Debug\net5.0-windows\Class_02 - Generics.genruntimeconfig.cache
