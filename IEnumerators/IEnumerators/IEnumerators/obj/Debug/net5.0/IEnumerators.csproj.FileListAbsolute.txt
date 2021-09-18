@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\bin\Debug\net5.0\IEnumerators.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\bin\Debug\net5.0\IEnumerators.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\bin\Debug\net5.0\IEnumerators.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\bin\Debug\net5.0\IEnumerators.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\bin\Debug\net5.0\IEnumerators.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\bin\Debug\net5.0\ref\IEnumerators.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\bin\Debug\net5.0\IEnumerators.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\ref\IEnumerators.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 5\IEnumerators\IEnumerators\IEnumerators\obj\Debug\net5.0\IEnumerators.genruntimeconfig.cache
