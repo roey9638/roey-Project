@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\bin\Debug\net5.0\Intermediate test.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\bin\Debug\net5.0\Intermediate test.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\bin\Debug\net5.0\Intermediate test.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\bin\Debug\net5.0\Intermediate test.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\bin\Debug\net5.0\Intermediate test.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\bin\Debug\net5.0\ref\Intermediate test.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\bin\Debug\net5.0\Intermediate test.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\ref\Intermediate test.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\Intermediate test\Intermediate test\Intermediate test\obj\Debug\net5.0\Intermediate test.genruntimeconfig.cache
