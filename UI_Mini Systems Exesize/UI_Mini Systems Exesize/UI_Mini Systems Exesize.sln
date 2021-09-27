@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Mini Systems Exesize", "UI_Mini Systems Exesize\UI_Mini Systems Exesize.csproj", "{8C1D03B6-7B25-4432-9CAC-BF0B9E937CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1D03B6-7B25-4432-9CAC-BF0B9E937CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1D03B6-7B25-4432-9CAC-BF0B9E937CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1D03B6-7B25-4432-9CAC-BF0B9E937CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1D03B6-7B25-4432-9CAC-BF0B9E937CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34EE2A15-2353-4D36-92AE-C374D71F52E3}
+	EndGlobalSection
+EndGlobal
