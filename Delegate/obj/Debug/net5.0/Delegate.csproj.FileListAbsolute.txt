@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 6\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
