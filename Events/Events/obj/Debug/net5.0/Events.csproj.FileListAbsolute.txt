@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\bin\Debug\net5.0\Events.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\bin\Debug\net5.0\Events.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\bin\Debug\net5.0\Events.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\bin\Debug\net5.0\Events.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\bin\Debug\net5.0\Events.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\bin\Debug\net5.0\ref\Events.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\bin\Debug\net5.0\Events.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\ref\Events.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 7\Events\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache
