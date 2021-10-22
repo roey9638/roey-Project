@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\bin\Debug\net5.0\Generic Delegates.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\bin\Debug\net5.0\Generic Delegates.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\bin\Debug\net5.0\Generic Delegates.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\bin\Debug\net5.0\Generic Delegates.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\bin\Debug\net5.0\Generic Delegates.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\bin\Debug\net5.0\ref\Generic Delegates.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\bin\Debug\net5.0\Generic Delegates.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\ref\Generic Delegates.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 9\Generic Delegates\Generic Delegates\obj\Debug\net5.0\Generic Delegates.genruntimeconfig.cache
