@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\bin\Debug\net5.0\LINQ0.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\bin\Debug\net5.0\LINQ0.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\bin\Debug\net5.0\LINQ0.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\bin\Debug\net5.0\LINQ0.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\bin\Debug\net5.0\LINQ0.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\bin\Debug\net5.0\ref\LINQ0.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\bin\Debug\net5.0\LINQ0.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\ref\LINQ0.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.genruntimeconfig.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 10\LINQ\LINQ0\obj\Debug\net5.0\LINQ0.csproj.AssemblyReference.cache
