@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\bin\Debug\net5.0\Threads HM.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\bin\Debug\net5.0\Threads HM.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\bin\Debug\net5.0\Threads HM.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\bin\Debug\net5.0\Threads HM.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\bin\Debug\net5.0\Threads HM.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\bin\Debug\net5.0\ref\Threads HM.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\bin\Debug\net5.0\Threads HM.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\ref\Threads HM.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Net. מתקדם\שיעור 12\Threads\Threads HM\obj\Debug\net5.0\Threads HM.genruntimeconfig.cache
