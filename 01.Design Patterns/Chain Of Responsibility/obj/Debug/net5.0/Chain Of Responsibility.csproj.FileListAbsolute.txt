@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\bin\Debug\net5.0\Chain Of Responsibility.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\bin\Debug\net5.0\Chain Of Responsibility.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\bin\Debug\net5.0\Chain Of Responsibility.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\bin\Debug\net5.0\Chain Of Responsibility.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\bin\Debug\net5.0\Chain Of Responsibility.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\bin\Debug\net5.0\ref\Chain Of Responsibility.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\bin\Debug\net5.0\Chain Of Responsibility.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\ref\Chain Of Responsibility.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Chain Of Responsibility\obj\Debug\net5.0\Chain Of Responsibility.genruntimeconfig.cache

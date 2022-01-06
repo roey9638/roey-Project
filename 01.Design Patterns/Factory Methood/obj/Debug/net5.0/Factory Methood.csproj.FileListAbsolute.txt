@@ -1,0 +1,16 @@
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\bin\Debug\net5.0\Factory Methood.exe
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\bin\Debug\net5.0\Factory Methood.deps.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\bin\Debug\net5.0\Factory Methood.runtimeconfig.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\bin\Debug\net5.0\Factory Methood.runtimeconfig.dev.json
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\bin\Debug\net5.0\Factory Methood.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\bin\Debug\net5.0\ref\Factory Methood.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\bin\Debug\net5.0\Factory Methood.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.csproj.AssemblyReference.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.AssemblyInfoInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.AssemblyInfo.cs
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.csproj.CoreCompileInputs.cache
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\ref\Factory Methood.dll
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.pdb
+C:\Users\roey1\Desktop\שעורי בית גמורים\Design Patterns\שיעור 1\Singletone\Factory Methood\obj\Debug\net5.0\Factory Methood.genruntimeconfig.cache
