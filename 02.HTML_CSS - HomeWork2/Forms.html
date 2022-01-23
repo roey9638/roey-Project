@@ -1,0 +1,60 @@
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<!--Forms!!!!!!!!!!! טפסים-->
+<body>
+    <form action="./MainPage.html" method="get">
+        <div>
+        <label>
+            שם פרטי
+            <input type="text" name="firstName" id="firstName">
+        </label>
+    </div>
+
+    <div>
+        <label>
+            שם משפחה
+            <input type="text" name="LastName" id="LastName">
+        </label>
+    </div>
+
+    <div>
+        <label>
+            תאריך לידה
+            <input type="date" name="birthDate" id="birthDate">
+        </label>
+    </div>
+
+    <div>
+        <label>
+            עיר
+            <select name="Cities" id="Cities">
+                <option value="Hadera">חדרה</option>
+                <option value="Netanya">נתניה</option>
+                <option value="Tel-Aviv">תל אביב</option>
+            </select>
+        </label>
+    </div>
+
+    <div>
+        <label for="male">
+            זכר
+            <input type="radio" name="sex" id="male" value="male">
+        </label>
+    </div>
+    <div>
+        <label for="female">
+            נקדבה            
+            <input type="radio" name="sex" id="female" value="female">
+        </label>
+    </div>
+
+    <button type = "submit">שלח</button>
+    </form>
+</body>
+</html>
